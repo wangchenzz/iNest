@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>我的购物车</string>
+			<key>image</key>
+			<string>personalMain1</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>我的订单</string>
+			<key>image</key>
+			<string>personalMain2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>我的礼券</string>
+			<key>image</key>
+			<string>personalMain3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>我的积分</string>
+			<key>image</key>
+			<string>personalMain6</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>喜欢的礼物</string>
+			<key>image</key>
+			<string>personalMain4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>喜欢的攻略</string>
+			<key>image</key>
+			<string>personalMain5</string>
+		</dict>
+	</array>
+</array>
+</plist>

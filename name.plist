@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>礼物</string>
+		<string>美物</string>
+		<string>美食</string>
+		<string>穿搭</string>
+		<string>鞋包</string>
+		<string>饰品</string>
+		<string>美护</string>
+		<string>数码</string>
+		<string>家居</string>
+		<string>手工</string>
+		<string>母婴</string>
+		<string>娱乐</string>
+		<string>动漫</string>
+		<string>运动</string>
+		<string>书</string>
+	</array>
+	<array>
+		<string>女朋友</string>
+		<string>男朋友</string>
+		<string>小朋友</string>
+		<string>爸爸妈妈</string>
+		<string>基友</string>
+		<string>闺蜜</string>
+		<string>同事</string>
+	</array>
+	<array>
+		<string>生日</string>
+		<string>情人节</string>
+		<string>结婚</string>
+		<string>纪念日</string>
+		<string>乔迁</string>
+		<string>感谢</string>
+		<string>圣诞节</string>
+		<string>新年</string>
+	</array>
+	<array>
+		<string>创意</string>
+		<string>萌萌哒</string>
+		<string>小清新</string>
+		<string>科技范</string>
+		<string>奇葩</string>
+		<string>设计感</string>
+	</array>
+</array>
+</plist>

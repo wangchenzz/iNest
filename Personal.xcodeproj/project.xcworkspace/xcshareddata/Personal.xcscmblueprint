@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "66434ae9-3e2b-4edb-bbd0-7222fb352867",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "66434ae9-3e2b-4edb-bbd0-7222fb352867" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "66434ae9-3e2b-4edb-bbd0-7222fb352867" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A056A3F1-B346-4FB7-8D9E-30D0870829B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "66434ae9-3e2b-4edb-bbd0-7222fb352867" : "liii\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Personal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/LIJI2.0\/Personal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/284710074%40qq.com@code.taobao.org\/svn\/liii",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66434ae9-3e2b-4edb-bbd0-7222fb352867"
+    }
+  ]
+}
