@@ -102,9 +102,7 @@
         _numLmitedLabel = numlabel;
         
         [[NSNotificationCenter defaultCenter]addObserver:self selector:@selector(beganEdit:) name:UITextViewTextDidBeginEditingNotification object:nil];
-   
     }
-
     return _numLmitedLabel;
 }
 
